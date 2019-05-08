@@ -1,0 +1,22 @@
+-
+-
+-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+-Emone alert system: Android application
+-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+-
+-Operation:
+-? Listens for SMS messages with certain header
+-? When an emone alert SMS arrives, there is HTML code in the message. The program should save the HTML code to a file in a certain directory, and take note of the text inside the <title> and <market> tags
+-? A OS notification should appear, and a certain sound should be played
+-? Clicking on the notification should open the HTML file with the web browser
+-
+-Requirements:
+-? Interface looks at least as good as 3C CPU manager
+-? The directory to save the HTML files to can be configured via the UI
+-? The sound to play should be configurable with the UI, and should use the default media manager ringtone selector
+-? The notification's big bold title should say 'Emone alert: <market>'
+-? The notification's small gray text should be the <title> from earlier, terminated with an ellipsis if the <title> is too long
+-
+-Payment:
+-? Anna's old phone guaranteed for purchase at $40.00 and Tamu keeps both phones
+-? 7.00 for this job when complete

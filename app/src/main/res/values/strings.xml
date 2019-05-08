@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lods Emone</string>
+    <string name="settings_help">Press the settings button to configure the app</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_info">SMS Interception service is running</string>
+    <string name="downloaddate_default">MainActivity could not access the app\'s SharedPreferences!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="button_choosesound">Choose Notification Sound</string>
+    <string name="label_choosedlpath">Enter HTML file download directory:</string>
+    <string name="sdcard">/sdcard/</string>
+</resources>
